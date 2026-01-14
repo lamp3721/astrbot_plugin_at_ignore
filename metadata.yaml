@@ -2,5 +2,5 @@ name: astrbot_plugin_at_ignore
 display_name: 忽略@消息
 desc: 让 Bot 不响应任何 @ 它的消息，被 @ 时直接忽略，不进行 LLM 处理。
 version: v1.0.0
-author: lamp
+author: lamp3721
 repo: https://github.com/lamp3721/astrbot_plugin_at_ignore

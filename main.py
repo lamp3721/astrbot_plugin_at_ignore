@@ -12,7 +12,7 @@ from astrbot.api.star import Context, Star, register
 
 @register(
     "astrbot_plugin_at_ignore",
-    "lamp",
+    "lamp3721",
     "忽略 @ 消息，bot 不会响应任何 @ 它的消息",
     "1.0.0",
     "https://github.com/lamp3721/astrbot_plugin_at_ignore",
